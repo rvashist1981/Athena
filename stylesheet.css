@@ -1,7 +1,7 @@
 @font-face {
  font-family:'Campton';
- font-style: normal;
- font-weight: 400;
- font-display: swap;
- src: url (https://sacdemo.github.io/Athena/Campton-Bold.ttf) format('truetype');
+ font-style: 'normal';
+ font-weight: 'normal';
+ src: 
+  url ('https://sacdemo.github.io/Athena/Campton-Bold.ttf') format('truetype');
 }
